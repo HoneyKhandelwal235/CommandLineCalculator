@@ -1,0 +1,18 @@
+# Ignore system files
+*.class
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore OS/user files
+AppData/
+*.tmp
+*.swp
+
+
+## 🚀 How to Run
+
+1. Open a terminal in this folder.
+2. Navigate to the `src` directory:
+   ```bash
+   cd src
